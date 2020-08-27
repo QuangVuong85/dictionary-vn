@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.idea/
+lib/
+
+src/__py*/
+src/crawler/__py*/
